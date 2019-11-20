@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://adyan.cn/tags/index.html</loc>
+    
+    <lastmod>2019-11-20T13:54:01.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://adyan.cn/2019/11/20/hello-world/</loc>
     
     <lastmod>2019-11-20T05:32:59.847Z</lastmod>
@@ -124,13 +131,6 @@
     <loc>https://adyan.cn/categories/index.html</loc>
     
     <lastmod>2019-03-12T10:22:03.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://adyan.cn/tags/index.html</loc>
-    
-    <lastmod>2019-03-12T10:21:01.000Z</lastmod>
     
   </url>
   
